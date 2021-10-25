@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(83, 83, 83);
+    font-family: monospace;
+}
+
+h1, p {
+    text-align: center;
+    color: white;
+}
+
+p {
+    font-size: 14;
+}
+
